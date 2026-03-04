@@ -7,10 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class HealthCareRun extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("hello-view.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(HealthCareRun.class.getResource("healthcaremainpage-view.fxml"));
         // Create a scene with a generous default resolution before maximizing
         Scene scene = new Scene(fxmlLoader.load(), 1280, 800);
 

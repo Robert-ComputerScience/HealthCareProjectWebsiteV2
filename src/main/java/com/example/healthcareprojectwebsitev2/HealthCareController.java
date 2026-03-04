@@ -5,7 +5,7 @@ import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.HBox;
 
-public class HelloController {
+public class HealthCareController {
 
     // ==========================================
     // FXML UI ELEMENTS: NEWS PAGINATION

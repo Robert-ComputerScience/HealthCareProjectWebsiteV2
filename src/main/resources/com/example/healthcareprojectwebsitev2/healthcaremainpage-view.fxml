@@ -11,7 +11,7 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.layout.VBox?>
 
-<ScrollPane fitToWidth="true" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.healthcareprojectwebsitev2.HelloController">
+<ScrollPane fitToWidth="true" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.healthcareprojectwebsitev2.HealthCareController">
     <content>
         <VBox alignment="TOP_CENTER" style="-fx-background-color: #ffffff;">
 

@@ -134,7 +134,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.example.healthcareprojectwebsitev2/com.example.healthcareprojectwebsitev2.HelloApplication
+                                com.example.healthcareprojectwebsitev2/com.example.healthcareprojectwebsitev2.HealthCareRun
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
